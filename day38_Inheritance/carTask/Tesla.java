@@ -1,4 +1,4 @@
-package day39_Recap.carTask;
+package day38_Inheritance.carTask;
 
 public class Tesla extends Car{
 

@@ -1,4 +1,4 @@
-package day39_Recap.browser;
+package day38_Inheritance.browser;
 
 public class ChromeBrowser {
     public static void main(String[] args) {
