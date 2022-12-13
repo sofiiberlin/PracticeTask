@@ -8,4 +8,6 @@ public class Triangle {
     //Im doing some changes
 
     // great! we done it:)
+
+    // added new change
 }
