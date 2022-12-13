@@ -7,5 +7,5 @@ public class Triangle {
     
     //Im doing some changes
 
-    // great! we dine it:)
+    // great! we done it:)
 }
