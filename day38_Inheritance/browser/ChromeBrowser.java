@@ -1,8 +1,11 @@
 package day38_Inheritance.browser;
 
 public class ChromeBrowser {
-    public static void main(String[] args) {
-        /*
+    public ChromeBrowser() {
+        super();
+    }
+
+    /*
         2. Create the following sub classes of Browser and override the
 methods if needed:
 1. ChromeBrowser
@@ -13,5 +16,5 @@ closeBrowser():
 prints "closing chrome browser"
 
          */
-    }
+
 }
